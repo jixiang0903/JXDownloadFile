@@ -1,0 +1,20 @@
+PODS:
+  - SVProgressHUD (2.2.5)
+  - Tiercel (3.2.5)
+
+DEPENDENCIES:
+  - SVProgressHUD
+  - Tiercel
+
+SPEC REPOS:
+  https://github.com/CocoaPods/Specs.git:
+    - SVProgressHUD
+    - Tiercel
+
+SPEC CHECKSUMS:
+  SVProgressHUD: 1428aafac632c1f86f62aa4243ec12008d7a51d6
+  Tiercel: c0a73f876a72800333b15f4e7e48791f4ad21e90
+
+PODFILE CHECKSUM: cd3401bc72a9f7b198525a9bcc9c78741df020fd
+
+COCOAPODS: 1.10.1
